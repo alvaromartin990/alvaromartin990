@@ -5,4 +5,4 @@
 - 📫 How to reach me: alvaromartingrande@gmail.com
 
 
-![](https://img.shields.io/badge/Python->=3.8.5|<3.9-blue)(https://img.shields.io/endpoint?url=<https://www.python.org/downloads/release/python-385/>&style<?style=plastic&logo=appveyor>)
+[![Python Version](https://img.shields.io/badge/Python->=3.8.5|<3.9-blue)](https://www.python.org/downloads/release/python-385/)
